@@ -76,10 +76,10 @@ This project is open-source and available under the MIT License.
 Want to contribute? Feel free to fork this repository, make changes, and submit a pull request. Any improvements are welcome! 🚀
 
 ## 👨‍💻 Author
-👤 Alex He
-📧 Email: kuranesu@gmail.com
-🌐 GitHub: Alex_0727
-📌 Project Repository: Weather App
+- 👤 Alex He
+- 📧 Email: kuranesu@gmail.com
+- 🌐 GitHub: Alex_0727
+- 📌 Project Repository: Weather App
 
 ## 📢 If you found this project helpful, please ⭐ star the repository on GitHub!
 
